@@ -2,7 +2,7 @@
 ## Calls focus –data analysis and visualization
 ## Overview.
 ## Business challenge/requirement
-For this capstone project we will be analyzing 911 call data from KaggleThis data is from Montgomery County in  Pennsylvania State of USA. 911 is most important social security feature of USA. It is the no. which citizens can call in case of any emergencies such as crime, medical, traffic, fire etc.As a data analyst you have to analyze and visualize the data  and answer the question in section Approach to Solve
+For this capstone project we will be analyzing 911 call data from Kaggle.This data is from Montgomery County in  Pennsylvania State of USA. 911 is most important social security feature of USA. It is the no. which citizens can call in case of any emergencies such as crime, medical, traffic, fire etc.As a data analyst you have to analyze and visualize the data  and answer the question in section Approach to Solve
 ## Key issues
 Data should be analyzed accurately
 ## Considerations
